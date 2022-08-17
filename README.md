@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @BrunaCardosoFarias
-- 👀 I’m interested in HTML,CSS3 and JavaScript
-- 📫 How to reach me brunacardosodefarias@gmail.com
+-   Olá, sou a Bruna Farias
+-  👨‍🔬⚗️🔬 Hoje trabalho como Química 
+-  👀    Possuo conhecimento em HTML5,CSS3, Java, JavaScript (padrão ECMA) e conhecimento em Figma. 
+-  📫    brunacardosodefarias@gmail.com
+-  📱    (19) 98866-8393
 
 <!---
 BrunaCardosoFarias/BrunaCardosoFarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
