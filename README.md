@@ -1,8 +1,8 @@
 -   Olá, sou a Bruna Farias
--  👨‍🔬⚗️🔬 Hoje trabalho como Química 
+-  👨‍🔬⚗️🔬 Sou analista de QA(Quality Assurance) e Formada em Química pela UNICAMP.
 -  👀    Possuo conhecimento em HTML5,CSS3, Java, JavaScript (padrão ECMA) e conhecimento em Figma. 
 -  📫    brunacardosodefarias@gmail.com
--  📱    (19) 98866-8393
+-  📱    (19) 99685-4337
  <div align="center">
   <a href="https://github.com/BrunaCardosoFarias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaCardosoFarias&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
