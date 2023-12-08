@@ -1,6 +1,6 @@
 -   Olá, sou a Bruna Farias
--  👨‍🔬⚗️🔬 Sou analista de QA(Quality Assurance) e Formada em Química pela UNICAMP.
--  👀    Possuo conhecimento em HTML5,CSS3, Java, JavaScript (padrão ECMA) e conhecimento em Figma. 
+-  👨‍🔬⚗️🔬 Sou desenvolvedora web e Formada em Química pela UNICAMP.
+-  👀    Possuo conhecimento em HTML5,CSS3, Java, Vue 3 , JavaScript (padrão ECMA) e conhecimento em Figma. 
 -  📫    brunacardosodefarias@gmail.com
 -  📱    (19) 99685-4337
 
