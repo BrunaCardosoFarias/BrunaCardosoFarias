@@ -1,6 +1,6 @@
 -   Olá, sou a Bruna Farias
 -  👨‍🔬⚗️🔬 Sou desenvolvedora web e Formada em Química pela UNICAMP.
--  👀    Possuo conhecimento em HTML5,CSS3, Java, Vue 3 , JavaScript (padrão ECMA) e conhecimento em Figma. 
+-  👀    Possuo conhecimento em HTML5,CSS3, Java, Vue 3 , JavaScript (padrão ECMA),conhecimento em Figma, angular, react, experiência profissional em metodologias ágeis, entre outras habilidades. 
 -  📫    brunacardosodefarias@gmail.com
 -  📱    (19) 99685-4337
 
