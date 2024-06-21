@@ -1,31 +1,24 @@
--   Olá, sou a Bruna Farias
--  👨‍🔬⚗️🔬 Sou desenvolvedora web e Formada em Química pela UNICAMP.
--  👀    Possuo conhecimento em HTML5,CSS3, Java, Vue 3 , JavaScript (padrão ECMA),conhecimento em Figma, angular, react, experiência profissional em metodologias ágeis, entre outras habilidades. 
--  📫    brunacardosodefarias@gmail.com
--  📱    (19) 99685-4337
-
- <div align="center">
-  <a href="https://github.com/BrunaCardosoFarias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaCardosoFarias&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCardosoFarias&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bruna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
 
 
-  <div>
-     <a href = "brunacardosodefarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruna-farias-94aa4615a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
-  
-  
+## Olá, eu sou a Bruna Farias! 👋
+Sou uma desenvolvedora fullstack com experiência profissional em desenvolvimento front-end e atualmente estou expandindo meu conhecimento em Java para me tornar uma desenvolvedora mais completa.
+
+🎓 Graduada em Química pela Universidade Estadual de Campinas (UNICAMP).
+💼 Experiência profissional como desenvolvedora fullstack com foco em front-end.
+🌱 Aprendendo mais sobre desenvolvimento back-end em Java.
+📚 Conhecimento em HTML5, CSS3, JavaScript (ECMAScript), Vue.js, React.js, Angular.
+🖥️ Experiência em metodologias ágeis e design de interfaces no Figma.
+
+ ## Projetos Destacados
+ Jogo da Forca - https://github.com/BrunaCardosoFarias/jogoDaForca
+
+Um clássico jogo da forca onde os jogadores tentam adivinhar palavras com base em dicas sobre o número de letras. Implementado em Java, este projeto demonstra habilidades em lógica de programação e interação com o usuário.
+
+ Rick and Morty - https://github.com/BrunaCardosoFarias/rick-and-morty-website
+
+Um website informativo sobre a série "Rick and Morty", oferecendo detalhes dos personagens acompanhados de imagens. Explore as malucas aventuras de Rick, um cientista com problemas com a bebida, e seu neto Morty, um adolescente não tão brilhante quanto o avô. Desenvolvido com HTML, CSS e JavaScript, este projeto demonstra habilidades em front-end e integração de APIs.
+
+## Contato
+📧 Email: brunacardosodefarias@gmail.com
+🌐 LinkedIn: Bruna Farias
+
