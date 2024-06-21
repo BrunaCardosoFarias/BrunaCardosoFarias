@@ -4,7 +4,8 @@
 Sou uma desenvolvedora fullstack com experiência profissional em desenvolvimento front-end e atualmente estou expandindo meu conhecimento em Java para me tornar uma desenvolvedora mais completa.
 ## Sobre Mim e Habilidades
 
-- 🎓 Graduada em Química pela Universidade Estadual de Campinas (UNICAMP).
+- 🎓 Graduada em Química pela Universidade Estadual de Campinas (UNICAMP),premiada pelo Conselho Regional de Química como melhor aluna.
+- 🎓 Graduada em Desenvolvimento Web.
 - 💼 Experiência profissional como desenvolvedora fullstack com foco em front-end.
 - 🌱 Aprendendo mais sobre desenvolvimento back-end em Java.
 - 📚 Conhecimento em:
