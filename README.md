@@ -2,12 +2,22 @@
 
 ## Olá, eu sou a Bruna Farias! 👋
 Sou uma desenvolvedora fullstack com experiência profissional em desenvolvimento front-end e atualmente estou expandindo meu conhecimento em Java para me tornar uma desenvolvedora mais completa.
+## Sobre Mim e Habilidades
 
-🎓 Graduada em Química pela Universidade Estadual de Campinas (UNICAMP).
-💼 Experiência profissional como desenvolvedora fullstack com foco em front-end.
-🌱 Aprendendo mais sobre desenvolvimento back-end em Java.
-📚 Conhecimento em HTML5, CSS3, JavaScript (ECMAScript), Vue.js, React.js, Angular.
-🖥️ Experiência em metodologias ágeis e design de interfaces no Figma.
+- 🎓 Graduada em Química pela Universidade Estadual de Campinas (UNICAMP).
+- 💼 Experiência profissional como desenvolvedora fullstack com foco em front-end.
+- 🌱 Aprendendo mais sobre desenvolvimento back-end em Java.
+- 📚 Conhecimento em:
+  - **HTML5**: 🌐 "Construindo a base da web moderna."
+  - **CSS3**: 🎨 "Estilizando a web com elegância e precisão."
+  - **JavaScript (ECMAScript)**: 💡 "Transformando ideias em interações dinâmicas."
+  - **Vue.js**: ⚛️ "Simplicidade e eficiência para interfaces modernas."
+  - **React.js**: 🔧 "Componentes reutilizáveis, performance imbatível."
+  - **Angular**: 🅰️ "Potência escalável para aplicações web robustas."
+  - **Java**: ☕️ "Escrevendo o futuro da computação robusta e escalável."
+- 🖥️ Experiência em metodologias ágeis e design de interfaces no Figma.
+
+
 
  ## Projetos Destacados
  Jogo da Forca - https://github.com/BrunaCardosoFarias/jogoDaForca
