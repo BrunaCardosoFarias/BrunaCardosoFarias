@@ -14,8 +14,7 @@ Sou uma desenvolvedora fullstack com experiência profissional em desenvolviment
   - **Vue.js**: ⚛️ "Simplicidade e eficiência para interfaces modernas."
   - **React.js**: 🔧 "Componentes reutilizáveis, performance imbatível."
   - **Angular**: 🅰️ "Potência escalável para aplicações web robustas."
-  - **Java**: ☕️ "Escrevendo o futuro da computação robusta e escalável."
-  - **Clojure**: 🍃 "Elegância funcional para desenvolvimento ágil."
+  - **Java**: ☕️ "Escrevendo o futuro da computação robusta e escalável."  
 - 🖥️ Experiência em metodologias ágeis e design de interfaces no Figma.
 
 
